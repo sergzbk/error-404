@@ -6,5 +6,6 @@ end
 
 not_found do
 	status 404
-	"Ошибка 404, запрошенная страница не существует"
+	"Error 404, the requested page was not found <p><a href='/'>Return</a></p>"
+
 end
